@@ -150,3 +150,47 @@ a{
     height: 85%;
     cursor: grab;
 }
+
+/* CSS DLA STRONY PROFIL */
+
+#left{
+    float: left;
+
+    width: 40%;
+    height: 100vh;
+
+}
+
+#left_header{
+    width: 100%;
+    height: 15vh;
+
+    display:flex;
+    color: white;
+    justify-content:center;
+    align-items: center;
+    
+    font-size: 25px;
+
+}
+
+#left_body{
+    width: 100%;
+    height: 85vh;
+    
+    display:flex;
+    color: white;
+    justify-content:center;
+    align-items: center;
+
+}
+
+#right{
+    display: flex;
+    float: right;
+    background-color: orange;
+
+    width: 60%;
+    height: 100vh;
+
+}
