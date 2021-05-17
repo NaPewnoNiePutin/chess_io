@@ -1,8 +1,11 @@
 body{
     margin: 0 auto;
     font-family:"lucida console";
-    background-color: salmon;
-
+    background-image: url(img/background.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
 }
 
 a{
