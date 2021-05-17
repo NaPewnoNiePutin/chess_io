@@ -1,7 +1,7 @@
 # chess_io
 projekt strony chess.io (czyt. czesio)
 
-Strona zaprojektowana na potrzeby projektu na lekcje zawodowe
+Strona zaprojektowana na potrzeby projektu na lekcje zawodowe  
 Cel strony: Strona ma rozwijać umiejętności szachowe użytkowników, uczyć ich i pozwalać na wspólną rywalizację
 
 Strona zawiera:
@@ -15,7 +15,7 @@ Technologie użyte na stronie:
 * JS
 
 Projekt wykonany przez:
-NaPewnoNiePutin (Igor Tomkowicz) #web developer (głównie front-end)
-Lapagra (Łukasz Drózd) #grafik
-AbrahamCCH (Karol Phan) #web developer (głównie back-end)
-****** (Radosław Kubala) #beta tester
+NaPewnoNiePutin (Igor Tomkowicz) #web developer (głównie front-end)  
+Lapagra (Łukasz Drózd) #grafik  
+AbrahamCCH (Karol Phan) #web developer (głównie back-end)  
+****** (Radosław Kubala) #beta tester  
