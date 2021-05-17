@@ -14,7 +14,7 @@ Technologie użyte na stronie:
 * CSS3
 * JS
 
-Projekt wykonany przez:
+Projekt wykonany przez:  
 NaPewnoNiePutin (Igor Tomkowicz) #web developer (głównie front-end)  
 Lapagra (Łukasz Drózd) #grafik  
 AbrahamCCH (Karol Phan) #web developer (głównie back-end)  
