@@ -215,13 +215,6 @@ a{
     color: white;
 }
 
-ul {
-    list-style: none;
-    padding: 0px;
-
-    font-size: 25px;
-}
-
 .lista{
     float: left;
     
@@ -236,3 +229,4 @@ ul {
 h1:hover{
     cursor: help;
 }
+
