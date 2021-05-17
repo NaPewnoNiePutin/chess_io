@@ -1,7 +1,7 @@
 body{
     margin: 0 auto;
     font-family:"lucida console";
-    background-image: url(img/background.png);
+    background-image: url(img/background6.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -96,7 +96,7 @@ a{
 #szukanie{
     width: 80%;
     height: 80vh;
-    background-color: rgba(0,0,0,0.9);
+    background-color: rgba(0,0,0,0.75);
 
     color: white;
 
@@ -182,6 +182,8 @@ a{
     width: 100%;
     height: 85vh;
     
+    background-color: rgba(0,0,0,0.6);
+
     display:flex;
     color: white;
     justify-content:center;
@@ -214,6 +216,8 @@ a{
 #right_body{
     width: 100%;
     height: 85vh;
+    
+    background-color: rgba(0,0,0,0.6);
 
     font-size: 30px;
     color: white;
